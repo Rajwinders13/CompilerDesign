@@ -28,9 +28,6 @@ for i in range(len(list1_nfa)):
         temp.append(input())
     list2_nfa.append(temp)
 
-#print("list2_nfa:")
-#print(list2_nfa)
-
 #input final and initial states
 initial='q0'
 print("Enter final state: ")
