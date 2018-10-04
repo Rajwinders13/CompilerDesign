@@ -1,3 +1,4 @@
+#generate a dfa from ending with string
 import itertools
 #input ending with string
 print("Enter ending with string :")
