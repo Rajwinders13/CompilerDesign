@@ -1,3 +1,4 @@
+#lalr
 import pandas as pd
 import firstfollow2
 from firstfollow2 import production_list, nt_list as ntl, t_list as tl
