@@ -1,4 +1,5 @@
 #input states
+#input dfa and string processing
 while True:
    try:
       print("Enter number of states :")
