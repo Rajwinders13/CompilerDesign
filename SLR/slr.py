@@ -1,3 +1,4 @@
+#slr
 import copy
 
 grammar = []
